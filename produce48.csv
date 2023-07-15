@@ -1,44 +1,44 @@
-Name,Company,Level Audition,Re-Evaluation,note,ep1,ep2,ep3,ep4,ep5
-Dressa,Independent,X,⁂,,1,43,-,-,-
-Zoey,Independent,⁂,⁂,,2,1,1,6,4
-Juju,BBG Ent.,⁂,⁂,,3,6,4,1,2
-Yas,Red Cake Ent.,⁂,⁂,,4,8,12,5,10
-Carol,Independent,⁂,⁂,,5,3,10,12,3
-Eddie,Independent,X,⁂,,6,24,25,22,-
-Brunna,Red Cake & BBG Ent.,ᕯ,⁂,,7,17,2,7,14
-Yamimemi,The Code Label,-,⁂,,8,7,7,4,20
-Aaron,Red Cake Ent.,ᕯ,⁂,,10,19,26,11,12
-Elina,Independent,X,ᕯ,,11,27,19,23,-
-Nikky,Árion Ent.,X,ᕯ,,13,11,14,26,-
-JJ,Independent,⁂,ᕯ,,15,13,3,9,5
-Jessie,The Code Label,⁂,ᕯ,,16,12,8,18,6
-Gabi,Árion Ent.,-,ᕯ,,18,14,18,15,18
-Kai,Pear Nation,⁂,ᕯ,,19,2,9,2,1
-Andylu,Independent,-,ᕯ,,21,4,6,17,19
-Eden,Independent,ᕯ,ᕯ,,24,18,5,3,8
-Jaden,Pear Nation,ᕯ,ᕯ,,25,30,17,21,11
-Cris,BBG Ent.,X,ᕯ,,26,31,29,25,-
-Davy,Independent,ᕯ,ᕯ,,27,20,16,14,17
-Mad,Red Cake Ent.,ᕯ,ᕯ,,29,16,22,8,9
-Kim Felipe,Red Cake Ent.,-,✱,,30,5,20,19,21
-Nana,Pear Nation & BBG Ent.,ᕯ,✱,,31,22,24,16,15
-Say,Fireworks Ent.,⁂,✱,,32,26,21,20,7
-Pêra,Pear Nation & BBG Ent.,X,✱,,33,21,28,24,-
-Rafah,Pear Nation & BBG Ent.,ᕯ,✱,,34,23,13,10,13
-Diul,Independent,X,✱,,35,25,15,27,-
-Starly,Independent,ᕯ,✱,,36,15,23,13,16
-Castiel,Savage Ent.,X,ᕯ,,22,10,11,28,-
-Rio,BBG & Red Cake Ent.,X,ᕯ,,23,9,27,29,-
-Dean,Pear Nation & Fireworks Ent.,X,ᕯ,,20,28,30,-,-
-Bell,Independent,X,ᕯ,,28,29,31,-,-
-Dinho,Independent,X,✱,,37,33,32,-,-
-Abby,Independent,X,ᕯ,,17,32,33,-,-
-Rin,Independet,X,-,,43,34,34,-,-
-Davi,Independent,X,⁂,,9,35,-,-,-
-Kau,Pear Nation & BBG Ent.,X,ᕯ,,12,36,-,-,-
-Nico,Árion Ent.,X,ᕯ,,14,37,-,-
-Fany,BBG Ent.,X,-,,38,38,-,-
-Luan,Independent,X,-,,39,39,-,-
-Mafi,Independent,X,-,,40,40,-,-
-Apollo,Pear Nation,X,-,,41,41,-,-
-Oliver,Independent,X,-,,42,42,-,-
+Name,Company,Level Audition,Re-Evaluation,note,ep1,ep2,ep3,ep4,ep5,ep6
+Dressa,Independent,X,⁂,,1,43,-,-,-,-
+Zoey,Independent,⁂,⁂,,2,1,1,6,4,1
+Juju,BBG Ent.,⁂,⁂,,3,6,4,1,2,2
+Yas,Red Cake Ent.,⁂,⁂,,4,8,12,5,10,9
+Carol,Independent,⁂,⁂,,5,3,10,12,3,3
+Eddie,Independent,X,⁂,,6,24,25,22,-,-
+Brunna,Red Cake & BBG Ent.,⁂,⁂,,7,17,2,7,14,4
+Yamimemi,The Code Label,X,⁂,,8,7,7,4,20,-
+Aaron,Red Cake Ent.,⁂,⁂,,10,19,26,11,12,11
+Elina,Independent,X,ᕯ,,11,27,19,23,-,-
+Nikky,Árion Ent.,X,ᕯ,,13,11,14,26,-,-
+JJ,Independent,⁂,ᕯ,,15,13,3,9,5,8
+Jessie,The Code Label,⁂,ᕯ,,16,12,8,18,6,6
+Gabi,Árion Ent.,X,ᕯ,,18,14,18,15,18,-
+Kai,Pear Nation,⁂,ᕯ,,19,2,9,2,1,7
+Andylu,Independent,X,ᕯ,,21,4,6,17,19,-
+Eden,Independent,⁂,ᕯ,,24,18,5,3,8,5
+Jaden,Pear Nation,X,ᕯ,,25,30,17,21,11,-
+Cris,BBG Ent.,X,ᕯ,,26,31,29,25,-,-
+Davy,Independent,X,ᕯ,,27,20,16,14,17,-
+Mad,Red Cake Ent.,⁂,ᕯ,,29,16,22,8,9,10
+Kim Felipe,Red Cake Ent.,X,✱,,30,5,20,19,21,-
+Nana,Pear Nation & BBG Ent.,X,✱,,31,22,24,16,15,-
+Say,Fireworks Ent.,⁂,✱,,32,26,21,20,7,12
+Pêra,Pear Nation & BBG Ent.,X,✱,,33,21,28,24,-,-
+Rafah,Pear Nation & BBG Ent.,⁂,✱,,34,23,13,10,13,14
+Diul,Independent,X,✱,,35,25,15,27,-,-
+Starly,Independent,⁂,✱,,36,15,23,13,16,13
+Castiel,Savage Ent.,X,ᕯ,,22,10,11,28,-,-
+Rio,BBG & Red Cake Ent.,X,ᕯ,,23,9,27,29,-,-
+Dean,Pear Nation & Fireworks Ent.,X,ᕯ,,20,28,30,-,-,-
+Bell,Independent,X,ᕯ,,28,29,31,-,-,-
+Dinho,Independent,X,✱,,37,33,32,-,-,-
+Abby,Independent,X,ᕯ,,17,32,33,-,-,-
+Rin,Independet,X,-,,43,34,34,-,-,-
+Davi,Independent,X,⁂,,9,35,-,-,-,-
+Kau,Pear Nation & BBG Ent.,X,ᕯ,,12,36,-,-,-,-
+Nico,Árion Ent.,X,ᕯ,,14,37,-,-,-
+Fany,BBG Ent.,X,-,,38,38,-,-,-
+Luan,Independent,X,-,,39,39,-,-,-
+Mafi,Independent,X,-,,40,40,-,-,-
+Apollo,Pear Nation,X,-,,41,41,-,-,-
+Oliver,Independent,X,-,,42,42,-,-,-
